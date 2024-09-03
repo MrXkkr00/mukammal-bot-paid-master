@@ -1,0 +1,3 @@
+# Dastuchi : @MrGayartov
+# Manba : @KingsOfPy
+# kod manba bilan tarqatilsin...

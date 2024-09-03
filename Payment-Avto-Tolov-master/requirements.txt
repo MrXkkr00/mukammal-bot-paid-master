@@ -1,0 +1,7 @@
+aiogram~=2.14
+environs~=8.0.0
+art
+
+# Dastuchi : @MrGayartov
+# Manba : @KingsOfPy
+# kod manba bilan tarqatilsin...
